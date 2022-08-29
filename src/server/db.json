@@ -1,0 +1,33 @@
+{
+    "teachers":[
+        {
+        "id":123,
+        "teacherName":"Geetha"
+        
+    },
+    {
+        "id":124,
+        "teacherName":"Padma"
+    },
+
+    {
+        "id":125,
+        "teacherName":"Ratna"
+    }
+],
+
+    "students":[
+        {
+        "id":101,
+        "studentname": "Akshaya",
+        "Rank": 3
+        },
+
+        {
+        "id":102,
+        "studentname": "Amirtha",
+        "Rank":7
+
+        }
+    ]
+}
